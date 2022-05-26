@@ -11,5 +11,5 @@ contract Proxy {
 }
 
 contract NotLostStorage is Proxy {
-    
+    // TODO 25:49 + Remove nodemodules + rename repo to upgradable
 }
