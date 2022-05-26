@@ -1,3 +1,3 @@
-# Storage Practices In Solidity
+# Smart Contract Upgrade Practices In Solidity
 
-A few different ways to handle storage with smart contracts
+A few different ways to handle upgrades with smart contracts
