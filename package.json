@@ -1,0 +1,28 @@
+{
+  "name": "smartcontractstorage",
+  "version": "1.0.0",
+  "description": "A few different ways to handle storage with smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devon-n/SmartContractStorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devon-n/SmartContractStorage/issues"
+  },
+  "homepage": "https://github.com/devon-n/SmartContractStorage#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0"
+  }
+}
