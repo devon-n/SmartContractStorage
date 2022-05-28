@@ -21,7 +21,7 @@ contract Dispatcher is Upgradeable {
         replace(target);
     }
 
-    function initialize() override public {
+    function initialize() override public pure {
         // Should only be called on target contracts, not the dispatcher
         assert(false);
     }
